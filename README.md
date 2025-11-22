@@ -1,37 +1,30 @@
-<!--  🐼 PANDA BRO – PROFILE README  -->
-
-<!-- Banner (put your own image in /assets or use an online URL) -->
+<!-- Banner -->
 <p align="center">
-  <img src="./assets/panda-banner.png" alt="Panda Hacker Banner" width="100%" />
+  <img src="https://i.imgur.com/8J0Fq0c.png" width="100%" />
 </p>
 
-<!-- Animated typing intro -->
+<!-- Animated Heading -->
 <p align="center">
-  <a href="https://github.com/pandaMan2-0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Panda+Bro+%F0%9F%90%BC;Full-Stack+Developer+%26+Night-Shift+Bug+Hunter;Building+cool+stuff+in+the+Panda+Labs" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Panda+Bro+🐼;Full-Stack+Developer+%7C+AI+Explorer;Hacking+bugs+with+bamboo+and+dark+theme" />
 </p>
 
 ---
 
-## 🐼 About Me
+# 🐼 About Me
 
-```bash
 $ whoami
 > Panda Bro (pandaMan2-0)
 
 $ cat profile.yaml
 name: "Panda Bro"
 role: "Full-Stack / AI Dev"
-mood: "Calm... until the code breaks 😈"
-special_power: "Squashing bugs with bamboo-fu"
+special_power: "Squashing bugs with bamboo-fu 🥋🐼"
 current_habitat: "Dark theme only. Light mode is forbidden."
-I’m a developer who writes code, trains models, breaks things on purpose,
-and fixes them with coffee and bamboo snacks.
+I write code, break code, fix code, and repeat — all while eating bamboo.
 
-🎖️ Badges & Street Cred
-<p align="center"> <!-- Profile views --> <img src="https://komarev.com/ghpvc/?username=pandaMan2-0&label=Profile+Views&style=for-the-badge&color=00ff99" alt="profile views" /> <!-- Main stack --> <img src="https://img.shields.io/badge/Stack-MERN-00ff99?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/AI-Explorer-00ff99?style=for-the-badge&logo=openai&logoColor=white" /> <!-- OS / Editor --> <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-00ff99?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Editor-VS%20Code-00ff99?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
-💻 Tech Stack (Panda Hacker Edition)
+🏅 Badges & Street Cred
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pandaMan2-0&label=Profile+Views&style=for-the-badge&color=00ff99" /> <img src="https://img.shields.io/badge/Stack-MERN-00ff99?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/AI-Explorer-00ff99?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Editor-VS%20Code-00ff99?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
+🧠 Tech Stack (Panda Hacker Edition)
 text
 Copy code
 Frontend : React, JavaScript (ES6+), HTML5, CSS3, Tailwind
@@ -43,19 +36,17 @@ Mindset  : Ship fast, learn faster, stay curious.
 🕶️ Dark Lair Projects
 “In the shadows of the terminal, the panda writes code.”
 
-🐼 Panda Labs – Experiments with AI, automation & weird ideas
+🐼 Panda Labs – AI, automation & experimental tools
 
-🎯 Edu / Psych Projects – Smart tools that help students learn better
+🎓 EduTech – Smart assessment systems
 
-🌐 Full-Stack Apps – MERN projects with clean APIs & responsive UI
+🌐 MERN Apps – Real-world, scalable web apps
 
-🤖 LLM Integrations – Playing with prompts, agents & AI workflows
+🤖 AI + LLM workflows – Agents, prompts, automation
 
-(WIP repos will start popping up here soon. Stay tuned. 🐾)
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pandaMan2-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99" alt="Panda's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaMan2-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99" alt="Top Languages" /> </p>
-🐾 Fun Section – Hacker Panda Terminal
+📊 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pandaMan2-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandaMan2-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99" /> </p>
+🐾 Fun Terminal
 bash
 Copy code
 $ ps aux | grep panda
@@ -63,17 +54,9 @@ $ ps aux | grep panda
 
 $ fortune
 > "Eat bamboo. Push code. Repeat."
+📬 Connect
+🐙 GitHub → https://github.com/pandaMan2-0
+⭐ Drop a star if you like the panda vibes
 
-$ skills --upgrade
-> + Problem Solving
-> + System Design (in progress)
-> + Clean Architecture
-> + Debugging with zen mode
-📬 Contact / Collab
-Wanna build something cool, educational, or AI-powered?
 
-🐙 GitHub: @pandaMan2-0
-
-If you read this far, you’re officially part of the bamboo squad. 🌿
-Drop a ⭐ on a repo and make the panda happy.
-
+Just tell me — I can generate them!
